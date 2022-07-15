@@ -1,0 +1,35 @@
+ctrl + alt + t - otkrit terminal
+ls - prosmotr soderjimogo tekushei directorii
+ls put do directorii - prosmotr ukazannoi directorii
+ls -a - prosmotr skritih failov directorii
+mkdir nazvanie - sozdavat' directorii
+cd put' do directorii - smena directorii
+"." - ssilka na tekushuu directoriu
+".." - ssilka na roditelskuu directoriu vishe
+~ - ssilka na domashnuu directoriu
+pwd - vivod absolutnogo puti v konsol
+absolutnii put - put, nachinaushiisa s domashnei directorii (home/user/some_dir)
+otnositelnii put - put, otnositelno drugih directorii (./some_dir)
+tree 
+
+rmdir - udalenie pustoi directorii
+rm -rf - udalenie  directorii s soderjimim
+
+toch - sozdanie failov v tekushei directorii
+rm inya faila - udalenie failov
+rm -rf imya faila - prinuditelnoe udalenie faila
+
+cat - vivod sodrgimogo faila v terminal
+cat imya faila >> imya drugogo faila - dozapis sodergimogo odnogo faila
+
+echo "kakoito text" - vivod ukazannogo texta v terminal.
+echo "kakoito text" >> nazvanie faila - dozapis ukazannogo texta v fail
+
+mv nazvanie faila probel novoe nazvanie faila - pereimenovanie
+
+mv nazvanie faila put' do directorii - perenos fAILA V UKAZANNUU DIRECTORIU
+nano put' do faila - otkritie faila s pomoshiu textovogo redactora nano. Esli faila ne sushestvuet to sozdaet ego
+
+
+первая команда && последующая команда - объеденение команд 
+
